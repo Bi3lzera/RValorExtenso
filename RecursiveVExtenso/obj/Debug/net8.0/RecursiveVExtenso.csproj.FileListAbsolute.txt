@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\bin\Debug\net8.0\RecursiveVExtenso.exe
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\bin\Debug\net8.0\RecursiveVExtenso.deps.json
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\bin\Debug\net8.0\RecursiveVExtenso.runtimeconfig.json
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\bin\Debug\net8.0\RecursiveVExtenso.dll
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\bin\Debug\net8.0\RecursiveVExtenso.pdb
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.dll
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\refint\RecursiveVExtenso.dll
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.pdb
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\RecursiveVExtenso.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Biel\RecursiveVExtenso\RecursiveVExtenso\obj\Debug\net8.0\ref\RecursiveVExtenso.dll
